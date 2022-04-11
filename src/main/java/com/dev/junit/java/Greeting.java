@@ -9,7 +9,7 @@ public class Greeting {
         return HELLO + ' ' + WORLD;
     }
 
-    public String printGreetingName(String name){
+    public String printGreeting(String name){
         return HELLO + ' ' + name;
     }
 }
